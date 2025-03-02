@@ -1,6 +1,8 @@
 # ahkV1ollama
 Ollama implementation in AHK v1.1
+
 Ollama Chat Interface
+
 This repository contains an AutoHotkey (AHK) script that provides a graphical user interface (GUI) for interacting with an Ollama chat API. The script is optimized for performance and compatibility and offers a user-friendly way to load models, send prompts, and view responses.
 
 Features
