@@ -6,7 +6,7 @@ Ollama Chat Interface
 This repository contains an AutoHotkey (AHK) script that provides a graphical user interface (GUI) for interacting with an Ollama chat API. The script is optimized for performance and compatibility and offers a user-friendly way to load models, send prompts, and view responses.
 
 Features
-GUI Chat Interface: A clean, responsive interface for chatting with the Ollama API.
+GUI Chat Interface: A clean, responsive interface for chatting with the Ollama API. Not super robust but works as a proof of concept.
 Dynamic Model Loading: Retrieves available models from the API endpoint (/api/tags) and populates a dropdown list.
 Prompt Handling: Sends user prompts to the API (/api/generate) and displays the generated responses.
 Debug Logging: Logs key events and errors to a debug file (ollama_debug.txt) for troubleshooting.
